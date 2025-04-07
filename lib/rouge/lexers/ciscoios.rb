@@ -8,7 +8,7 @@ module Rouge
       desc "A lexer for Cisco IOS configuration files"
 
       tag 'cisco-ios'
-      aliases 'cios', 'cisco'
+      aliases 'cios', 'cisco', 'ciscoios'
       filenames '*.conf', '*.cfg', '*.ios'
       mimetypes 'text/x-cisco-ios'
 
